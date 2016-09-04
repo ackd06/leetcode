@@ -51,3 +51,17 @@
 	Your algorithm should have a linear runtime complexity. Could you implement it without using extra memory?
 	
 <https://github.com/zszdevelop/leetcode/blob/master/leetcode/src/zsz/develop/SingleNumberSolution136.java>
+
+### 5.一个非负整数，取出个位与非个位相加减。求最后加等等于个位的那个数
+
+	258. Add Digits  QuestionEditorial Solution  My Submissions
+	Difficulty: Easy
+	Given a non-negative integer num, repeatedly add all its digits until the result has only one digit.
+
+	For example:
+
+	Given num = 38, the process is like: 3 + 8 = 11, 1 + 1 = 2. Since 2 has only one digit, return it.
+
+
+<https://github.com/zszdevelop/leetcode/blob/master/leetcode/src/zsz/develop/AddDigitsSolution258.java>
+
