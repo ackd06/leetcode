@@ -65,3 +65,14 @@
 
 <https://github.com/zszdevelop/leetcode/blob/master/leetcode/src/zsz/develop/AddDigitsSolution258.java>
 
+### 6.一个非负整数，取出个位与非个位相加减。求最后加等等于个位的那个数
+
+	104. Maximum Depth of Binary Tree  QuestionEditorial Solution  My Submissions
+	Difficulty: Easy
+	Given a binary tree, find its maximum depth.
+
+	The maximum depth is the number of nodes along the longest path from the root node down to the farthest leaf node.
+
+	Subscribe to see which companies asked this question
+
+<https://github.com/zszdevelop/leetcode/blob/master/leetcode/src/zsz/develop/MaximumDepthOfBinaryTree.java>
