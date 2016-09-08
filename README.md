@@ -97,7 +97,7 @@
 <https://github.com/zszdevelop/leetcode/blob/master/leetcode/src/zsz/develop/FindTheDifference389.java>
 ### 8.找出两个数组的交集
 
-	Intersection of Two Arrays
+	349.Intersection of Two Arrays
 	Given two arrays, write a function to compute their intersection.
 
 	Example:
@@ -109,3 +109,11 @@
 	Subscribe to see which companies asked this question
 	
 <https://github.com/zszdevelop/leetcode/blob/master/leetcode/src/zsz/develop/IntersectionOfTwoArrays349.java>
+
+### 9.判断两棵树是否相同
+	100. Same Tree
+	Given two binary trees, write a function to check if they are equal or not.
+
+	Two binary trees are considered equal if they are structurally identical and the nodes have the same value.
+	
+<https://github.com/zszdevelop/leetcode/blob/master/leetcode/src/zsz/develop/SameTree100.java>
