@@ -2,135 +2,20 @@
 
 
 
-### 1.字符串的逆序输出
-	344.Reverse String
-	Write a function that takes a string as input and returns the string reversed.
-	Example:
-	Given s = "hello", return "olleh".
-	Subscribe to see which companies asked this question
-	
-<https://github.com/zszdevelop/leetcode/blob/master/leetcode/src/zsz/develop/ReverseStringSolution.java>
+| \# | Problems | JavaSolution |Time |
+|----|----------|-----------|------|
+| 100 | [Same Tree ](https://leetcode.com/problems/same-tree/) |[Solution](<https://github.com/zszdevelop/leetcode/blob/master/leetcode/src/zsz/develop/SameTree100.java>) |2016.9.8|
+| 104 | [Maximum Depth of Binary Tree  ](https://leetcode.com/problems/maximum-depth-of-binary-tree/) |[Solution](https://github.com/zszdevelop/leetcode/blob/master/leetcode/src/zsz/develop/MaximumDepthOfBinaryTree.java) |2016.9.5|
+| 136 | [Single Number](https://leetcode.com/problems/single-number) |[Solution](https://github.com/zszdevelop/leetcode/blob/master/leetcode/src/zsz/develop/SingleNumberSolution136.java) |2016.9.3|
+| 258 | [Add Digits](https://leetcode.com/problems/add-digits/) |[Solution](https://github.com/zszdevelop/leetcode/blob/master/leetcode/src/zsz/develop/AddDigitsSolution258.java) |2016.9.4|
+| 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) |[Solution](https://github.com/zszdevelop/leetcode/blob/master/leetcode/src/zsz/develop/MoveZeroes.java) |2016.9.14|
+| 292 | [Nim Game](https://leetcode.com/problems/nim-game/) |[Solution](https://github.com/zszdevelop/leetcode/blob/master/leetcode/src/zsz/develop/NimGameSolution.java) |2016.9.1|
+| 344 | [Reverse String](https://leetcode.com/problems/intersection-of-two-arrays/) |[Solution](https://github.com/zszdevelop/leetcode/blob/master/leetcode/src/zsz/develop/ReverseStringSolution.java) |2016.8.31|
+| 349 | [Intersection of Two Arrays](https://leetcode.com/problems/find-the-difference/) |[Solution](https://github.com/zszdevelop/leetcode/blob/master/leetcode/src/zsz/develop/IntersectionOfTwoArrays349.java) |2016.9.7|
+| 371 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) |[Solution](https://github.com/zszdevelop/leetcode/blob/master/leetcode/src/zsz/develop/SumOfTwoIntegersSolution371.java) |2016.9.2|
+| 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) |[Solution](https://github.com/zszdevelop/leetcode/blob/master/leetcode/src/zsz/develop/RansomNote383.java) |2016.9.10|
+| 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) |[Solution](https://github.com/zszdevelop/leetcode/blob/master/leetcode/src/zsz/develop/FirstUniqueCharacterInAString.java) |2016.9.12|
+| 389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/) |[Solution](https://github.com/zszdevelop/leetcode/blob/master/leetcode/src/zsz/develop/FindTheDifference389.java) |2016.9.6|
 
-### 2.nim game 取石头游戏
-
-
-	292.You are playing the following Nim Game with your friend: There is a heap of stones on the table, each time one of you take turns to remove 1 to 3 stones. The one who removes the last stone will be the winner. You will take the first turn to remove the stones.
-
-	Both of you are very clever and have optimal strategies for the game. Write a function to determine whether you can win the game given the number of stones in the heap.
-
-	For example, if there are 4 stones in the heap, then you will never win the game: no matter 1, 2, or 3 stones you remove, the last stone will always be removed by your friend.
-
-	Hint:
-
-	If there are 5 stones in the heap, could you figure out a way to remove the stones such that you will always be the winner?
-	
-	
-<https://github.com/zszdevelop/leetcode/blob/master/leetcode/src/zsz/develop/NimGameSolution.java>
-
-### 3.计算两个整数和B的和，但你不允许使用运算符+和—。
-
-	371. Sum of Two Integers
-
-	Calculate the sum of two integers a and b, but you are not allowed to use the operator + and -.
-
-	Example:
-	Given a = 1 and b = 2, return 3.
-
-
-
-
-<https://github.com/zszdevelop/leetcode/blob/master/leetcode/src/zsz/develop/SumOfTwoIntegersSolution371.java>
-
-### 4.给出一组数组，在线性时间内找出只出现一次的数。其他都出现两次，
-
-	136.Single Number
-
-	Given an array of integers, every element appears twice except for one. Find that single one.
-
-	Note:
-	Your algorithm should have a linear runtime complexity. Could you implement it without using extra memory?
-	
-<https://github.com/zszdevelop/leetcode/blob/master/leetcode/src/zsz/develop/SingleNumberSolution136.java>
-
-### 5.一个非负整数，取出个位与非个位相加减。求最后加等等于个位的那个数
-
-	258. Add Digits  QuestionEditorial Solution  My Submissions
-	Difficulty: Easy
-	Given a non-negative integer num, repeatedly add all its digits until the result has only one digit.
-
-	For example:
-
-	Given num = 38, the process is like: 3 + 8 = 11, 1 + 1 = 2. Since 2 has only one digit, return it.
-
-
-<https://github.com/zszdevelop/leetcode/blob/master/leetcode/src/zsz/develop/AddDigitsSolution258.java>
-
-### 6.一个非负整数，取出个位与非个位相加减。求最后加等等于个位的那个数
-
-	104. Maximum Depth of Binary Tree  QuestionEditorial Solution  My Submissions
-	Difficulty: Easy
-	Given a binary tree, find its maximum depth.
-
-	The maximum depth is the number of nodes along the longest path from the root node down to the farthest leaf node.
-
-	Subscribe to see which companies asked this question
-
-<https://github.com/zszdevelop/leetcode/blob/master/leetcode/src/zsz/develop/MaximumDepthOfBinaryTree.java>
-
-### 7.找出多出来的数
-	389. Find the Difference  
-	Given two strings s and t which consist of only lowercase letters.
-
-	String t is generated by random shuffling string s and then add one more letter at a random position.
-
-	Find the letter that was added in t.
-
-	Example:
-
-	Input:
-	s = "abcd"
-	t = "abcde"
-
-	Output:
-	e
-	
-<https://github.com/zszdevelop/leetcode/blob/master/leetcode/src/zsz/develop/FindTheDifference389.java>
-### 8.找出两个数组的交集
-
-	349.Intersection of Two Arrays
-	Given two arrays, write a function to compute their intersection.
-
-	Example:
-	Given nums1 = [1, 2, 2, 1], nums2 = [2, 2], return [2].
-
-	Note:
-	Each element in the result must be unique.
-	The result can be in any order.
-	Subscribe to see which companies asked this question
-	
-<https://github.com/zszdevelop/leetcode/blob/master/leetcode/src/zsz/develop/IntersectionOfTwoArrays349.java>
-
-### 9.判断两棵树是否相同
-	100. Same Tree
-	Given two binary trees, write a function to check if they are equal or not.
-
-	Two binary trees are considered equal if they are structurally identical and the nodes have the same value.
-	
-<https://github.com/zszdevelop/leetcode/blob/master/leetcode/src/zsz/develop/SameTree100.java>
-
-### 10.勒索信
-	Ransom Note 
-	Given an  arbitrary ransom note string  and  another  string  containing  letters from all  the  magazines, write  a  function  that  will  return  true  if  the  ransom  note  can  be  constructed  from  the  magazines ;  otherwise,  it  will  return  false.   
-
-	Each  letter  in the magazine  string  can only  be used  once in your  ransom note.
-
-	Note:
-	You may assume that both strings contain only lowercase letters.
-
-	canConstruct("a", "b") -> false
-	canConstruct("aa", "ab") -> false
-	canConstruct("aa", "aab") -> true
-
-<https://github.com/zszdevelop/leetcode/blob/master/leetcode/src/zsz/develop/RansomNote383.java>
 
 
