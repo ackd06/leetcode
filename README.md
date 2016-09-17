@@ -7,6 +7,7 @@
 | 100 | [Same Tree ](https://leetcode.com/problems/same-tree/) |[Solution](<https://github.com/zszdevelop/leetcode/blob/master/leetcode/src/zsz/develop/SameTree100.java>) |2016.9.8|
 | 104 | [Maximum Depth of Binary Tree  ](https://leetcode.com/problems/maximum-depth-of-binary-tree/) |[Solution](https://github.com/zszdevelop/leetcode/blob/master/leetcode/src/zsz/develop/MaximumDepthOfBinaryTree.java) |2016.9.5|
 | 136 | [Single Number](https://leetcode.com/problems/single-number) |[Solution](https://github.com/zszdevelop/leetcode/blob/master/leetcode/src/zsz/develop/SingleNumberSolution136.java) |2016.9.3|
+| 169| [Majority Element](https://leetcode.com/problems/majority-element/) |[Solution](https://github.com/zszdevelop/leetcode/blob/master/leetcode/src/zsz/develop/MajorityElement.java) |2016.9.17|
 | 258 | [Add Digits](https://leetcode.com/problems/add-digits/) |[Solution](https://github.com/zszdevelop/leetcode/blob/master/leetcode/src/zsz/develop/AddDigitsSolution258.java) |2016.9.4|
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) |[Solution](https://github.com/zszdevelop/leetcode/blob/master/leetcode/src/zsz/develop/MoveZeroes.java) |2016.9.14|
 | 292 | [Nim Game](https://leetcode.com/problems/nim-game/) |[Solution](https://github.com/zszdevelop/leetcode/blob/master/leetcode/src/zsz/develop/NimGameSolution.java) |2016.9.1|
