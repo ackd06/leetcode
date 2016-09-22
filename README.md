@@ -12,6 +12,7 @@
 | 258 | [Add Digits](https://leetcode.com/problems/add-digits/) |[Solution](https://github.com/zszdevelop/leetcode/blob/master/leetcode/src/zsz/develop/AddDigitsSolution258.java) |2016.9.4|
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) |[Solution](https://github.com/zszdevelop/leetcode/blob/master/leetcode/src/zsz/develop/MoveZeroes.java) |2016.9.14|
 | 292 | [Nim Game](https://leetcode.com/problems/nim-game/) |[Solution](https://github.com/zszdevelop/leetcode/blob/master/leetcode/src/zsz/develop/NimGameSolution.java) |2016.9.1|
+| 326 | [Power of Three](https://leetcode.com/problems/power-of-three/) |[Solution](https://github.com/zszdevelop/leetcode/blob/master/leetcode/src/zsz/develop/PowerOfThree.java) |2016.9.21|
 | 344 | [Reverse String](https://leetcode.com/problems/intersection-of-two-arrays/) |[Solution](https://github.com/zszdevelop/leetcode/blob/master/leetcode/src/zsz/develop/ReverseStringSolution.java) |2016.8.31|
 | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) |[Solution](https://github.com/zszdevelop/leetcode/blob/master/leetcode/src/zsz/develop/IntersectionOfTwoArrays349.java) |2016.9.7|
 | 371 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) |[Solution](https://github.com/zszdevelop/leetcode/blob/master/leetcode/src/zsz/develop/SumOfTwoIntegersSolution371.java) |2016.9.2|
