@@ -21,5 +21,6 @@
 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) |[Solution](https://github.com/zszdevelop/leetcode/blob/master/leetcode/src/zsz/develop/FirstUniqueCharacterInAString.java) |2016.9.12|
 | 389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/) |[Solution](https://github.com/zszdevelop/leetcode/blob/master/leetcode/src/zsz/develop/FindTheDifference389.java) |2016.9.6|
 | 401 | [Binary Watch](https://leetcode.com/problems/binary-watch/) |[Solution](https://github.com/zszdevelop/leetcode/blob/master/leetcode/src/zsz/develop/BinaryWatch.java) |2016.9.19|
+| 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) |[Solution](https://github.com/zszdevelop/leetcode/blob/master/leetcode/src/zsz/develop/RomanToInteger.java) |2016.9.19|
 
 
