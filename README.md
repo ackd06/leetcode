@@ -4,11 +4,14 @@
 
 | \# | Problems | JavaSolution |Time |
 |----|----------|-----------|------|
+| 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) |[Solution](https://github.com/zszdevelop/leetcode/blob/master/leetcode/RomanToInteger.java) |2017.2.3|
+| 86 | [Partition List](https://leetcode.com/problems/partition-list/) |[Solution](https://github.com/zszdevelop/leetcode/blob/master/leetcode/PartitionList.java) |2017.2.6|
 | 100 | [Same Tree ](https://leetcode.com/problems/same-tree/) |[Solution](<https://github.com/zszdevelop/leetcode/blob/master/leetcode/SameTree100.java>) |2016.9.8|
 | 104 | [Maximum Depth of Binary Tree  ](https://leetcode.com/problems/maximum-depth-of-binary-tree/) |[Solution](https://github.com/zszdevelop/leetcode/blob/master/leetcode/MaximumDepthOfBinaryTree.java) |2016.9.5|
 | 136 | [Single Number](https://leetcode.com/problems/single-number) |[Solution](https://github.com/zszdevelop/leetcode/blob/master/leetcode/SingleNumberSolution136.java) |2016.9.3|
 | 169| [Majority Element](https://leetcode.com/problems/majority-element/) |[Solution](https://github.com/zszdevelop/leetcode/blob/master/leetcode/MajorityElement.java) |2016.9.17|
 | 202| [Happy Number](https://leetcode.com/problems/happy-number/) |[Solution](https://github.com/zszdevelop/leetcode/blob/master/leetcode/HappyNumber.java) |2016.9.17|
+| 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) |[Solution](https://github.com/zszdevelop/leetcode/blob/master/leetcode/ReverseLinkedList.java) |2017.2.4|
 | 231| [Power of Two](https://leetcode.com/problems/power-of-two/) |[Solution](https://github.com/zszdevelop/leetcode/blob/master/leetcode/PowerOfTwo.java) |2016.9.20|
 | 258 | [Add Digits](https://leetcode.com/problems/add-digits/) |[Solution](https://github.com/zszdevelop/leetcode/blob/master/leetcode/AddDigitsSolution258.java) |2016.9.4|
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) |[Solution](https://github.com/zszdevelop/leetcode/blob/master/leetcode/MoveZeroes.java) |2016.9.14|
@@ -21,7 +24,5 @@
 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) |[Solution](https://github.com/zszdevelop/leetcode/blob/master/leetcode/FirstUniqueCharacterInAString.java) |2016.9.12|
 | 389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/) |[Solution](https://github.com/zszdevelop/leetcode/blob/master/leetcode/FindTheDifference389.java) |2016.9.6|
 | 401 | [Binary Watch](https://leetcode.com/problems/binary-watch/) |[Solution](https://github.com/zszdevelop/leetcode/blob/master/leetcode/BinaryWatch.java) |2016.9.19|
-| 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) |[Solution](https://github.com/zszdevelop/leetcode/blob/master/leetcode/RomanToInteger.java) |2017.2.3|
-| 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) |[Solution](https://github.com/zszdevelop/leetcode/blob/master/leetcode/ReverseLinkedList.java) |2017.2.4|
 
 

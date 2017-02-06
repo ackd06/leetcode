@@ -55,7 +55,7 @@ public class SameTree100 {
 	 * @return
 	 */
 	  public boolean isSameTreeOtherTwo(TreeNode p, TreeNode q) {
-			if (p == null && q == null)
+			if (p == null && q == null)// 这里判断相同的是，他们的节点（子节点）最后都为空了
 				return true;
 			else if (p != null && q == null || p == null && q != null || p.val != q.val) {
 				return false;
