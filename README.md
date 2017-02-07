@@ -5,6 +5,7 @@
 | \# | Problems | JavaSolution |Time |
 |----|----------|-----------|------|
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) |[Solution](https://github.com/zszdevelop/leetcode/blob/master/leetcode/RomanToInteger.java) |2017.2.3|
+| 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) |[Solution](https://github.com/zszdevelop/leetcode/blob/master/leetcode/RemoveDuplicatesFromSortedList.java) |2017.2.7|
 | 86 | [Partition List](https://leetcode.com/problems/partition-list/) |[Solution](https://github.com/zszdevelop/leetcode/blob/master/leetcode/PartitionList.java) |2017.2.6|
 | 100 | [Same Tree ](https://leetcode.com/problems/same-tree/) |[Solution](<https://github.com/zszdevelop/leetcode/blob/master/leetcode/SameTree100.java>) |2016.9.8|
 | 104 | [Maximum Depth of Binary Tree  ](https://leetcode.com/problems/maximum-depth-of-binary-tree/) |[Solution](https://github.com/zszdevelop/leetcode/blob/master/leetcode/MaximumDepthOfBinaryTree.java) |2016.9.5|
