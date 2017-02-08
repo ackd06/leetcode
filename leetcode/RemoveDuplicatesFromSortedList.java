@@ -63,6 +63,7 @@ public class RemoveDuplicatesFromSortedList {
 	
 	/**
 	 * 迭代解法
+	奥秘在这： head的复制，防止函数运行完之后head就指向链表末尾了
 	 * @param head
 	 * @return
 	 */
