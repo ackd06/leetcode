@@ -60,6 +60,7 @@ public class ReverseLinkedList {
 	    return reverseListInt(head, null);
 	}
 
+	
 	private ListNode reverseListInt(ListNode head, ListNode newHead) {
 	    if (head == null)
 	        return newHead;
@@ -67,4 +68,19 @@ public class ReverseLinkedList {
 	    head.next = newHead;
 	    return reverseListInt(next, head);
 	}
+	
+	/**
+	 * 也是采用递归，这里更清楚一点
+	 * @param head
+	 * @return
+	 */
+	public ListNode reverseList(ListNode head) {
+        if(head==null || head.next==null)
+            return head;
+        ListNode nextNode=head.next;
+        ListNode newHead=reverseList(nextNode);
+        nextNode.next=head;
+        head.next=null;
+        return newHead;
+    }
 }
