@@ -16,6 +16,7 @@
 | 104 | [Maximum Depth of Binary Tree  ](https://leetcode.com/problems/maximum-depth-of-binary-tree/) |[Solution](https://github.com/zszdevelop/leetcode/blob/master/leetcode/MaximumDepthOfBinaryTree.java) |2016.9.5|Binary Tree|
 | 136 | [Single Number](https://leetcode.com/problems/single-number) |[Solution](https://github.com/zszdevelop/leetcode/blob/master/leetcode/SingleNumberSolution136.java) |2016.9.3|Array|
 | 138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) |[Solution](https://github.com/zszdevelop/leetcode/blob/master/leetcode/CopyListWithRandomPointer.java) |2017.2.17|Link|
+| 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/?tab=Description) |[Solution](https://github.com/zszdevelop/leetcode/blob/master/leetcode/LinkedListCycle.java) |2017.2.20|Link|
 | 169| [Majority Element](https://leetcode.com/problems/majority-element/) |[Solution](https://github.com/zszdevelop/leetcode/blob/master/leetcode/MajorityElement.java) |2016.9.17||
 | 202| [Happy Number](https://leetcode.com/problems/happy-number/) |[Solution](https://github.com/zszdevelop/leetcode/blob/master/leetcode/HappyNumber.java) |2016.9.17||
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) |[Solution](https://github.com/zszdevelop/leetcode/blob/master/leetcode/ReverseLinkedList.java) |2017.2.4|Link|
