@@ -19,6 +19,7 @@
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/?tab=Description) |[Solution](https://github.com/zszdevelop/leetcode/blob/master/leetcode/LinkedListCycle.java) |2017.2.20|Link|
 | 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/?tab=Description) |[Solution](https://github.com/zszdevelop/leetcode/blob/master/leetcode/LinkedListCycleII.java) |2017.2.21|Link|
 | 143 | [Reorder List](https://leetcode.com/problems/reorder-list/?tab=Description) |[Solution](https://github.com/zszdevelop/leetcode/blob/master/leetcode/ReorderList.java) |2017.2.22|Link|
+| 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/?tab=Description) |[Solution](https://github.com/zszdevelop/leetcode/blob/master/leetcode/LRUCache.java) |2017.2.25|Link|
 | 169| [Majority Element](https://leetcode.com/problems/majority-element/) |[Solution](https://github.com/zszdevelop/leetcode/blob/master/leetcode/MajorityElement.java) |2016.9.17||
 | 202| [Happy Number](https://leetcode.com/problems/happy-number/) |[Solution](https://github.com/zszdevelop/leetcode/blob/master/leetcode/HappyNumber.java) |2016.9.17||
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) |[Solution](https://github.com/zszdevelop/leetcode/blob/master/leetcode/ReverseLinkedList.java) |2017.2.4|Link|
