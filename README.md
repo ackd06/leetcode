@@ -8,6 +8,7 @@
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) |[Solution](https://github.com/zszdevelop/leetcode/blob/master/leetcode/RemoveNthNodeFromEndOfList.java) |2017.2.11|Link|
 | 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) |[Solution](https://github.com/zszdevelop/leetcode/blob/master/leetcode/SwapNodesInPairs.java) |2017.2.10|Link|
 | 25 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) |[Solution](https://github.com/zszdevelop/leetcode/blob/master/leetcode/ReverseNodesInKGroup.java) |2017.2.15|Link|
+| 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/?tab=Description) |[Solution](https://github.com/zszdevelop/leetcode/blob/master/leetcode/SearchInRotatedSortedArray.java) |2017.3.6|Array|
 | 61 | [Rotate List](https://leetcode.com/problems/rotate-list//) |[Solution](https://github.com/zszdevelop/leetcode/blob/master/leetcode/RotateList.java) |2017.2.9|Link|
 | 82 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) |[Solution](https://github.com/zszdevelop/leetcode/blob/master/leetcode/RemoveDuplicatesFromSortedListII.java) |2017.2.8|Link|
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) |[Solution](https://github.com/zszdevelop/leetcode/blob/master/leetcode/RemoveDuplicatesFromSortedList.java) |2017.2.7|Link|
