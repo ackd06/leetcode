@@ -17,6 +17,7 @@
 | 86 | [Partition List](https://leetcode.com/problems/partition-list/) |[Solution](https://github.com/zszdevelop/leetcode/blob/master/leetcode/PartitionList.java) |2017.2.6|Link|
 | 100 | [Same Tree ](https://leetcode.com/problems/same-tree/) |[Solution](<https://github.com/zszdevelop/leetcode/blob/master/leetcode/SameTree100.java>) |2016.9.8|Binary Tree|
 | 104 | [Maximum Depth of Binary Tree  ](https://leetcode.com/problems/maximum-depth-of-binary-tree/) |[Solution](https://github.com/zszdevelop/leetcode/blob/master/leetcode/MaximumDepthOfBinaryTree.java) |2016.9.5|Binary Tree|
+| 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/?tab=Description) |[Solution](https://github.com/zszdevelop/leetcode/blob/master/leetcode/LongestConsecutiveSequence.java) |2016.9.5|Array|
 | 136 | [Single Number](https://leetcode.com/problems/single-number) |[Solution](https://github.com/zszdevelop/leetcode/blob/master/leetcode/SingleNumberSolution136.java) |2016.9.3|Array|
 | 138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) |[Solution](https://github.com/zszdevelop/leetcode/blob/master/leetcode/CopyListWithRandomPointer.java) |2017.2.17|Link|
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/?tab=Description) |[Solution](https://github.com/zszdevelop/leetcode/blob/master/leetcode/LinkedListCycle.java) |2017.2.20|Link|
@@ -40,3 +41,7 @@
 | 401 | [Binary Watch](https://leetcode.com/problems/binary-watch/) |[Solution](https://github.com/zszdevelop/leetcode/blob/master/leetcode/BinaryWatch.java) |2016.9.19||
 
 
+## Array 相关算法 ##
+* 并查集(Union-Find)算法
+
+    * [并查集(Union-Find)算法介绍](http://blog.csdn.net/dm_vincent/article/details/7655764)
