@@ -7,6 +7,7 @@
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/#/description) |[Solution](https://github.com/zszdevelop/leetcode/blob/master/leetcode/TwoSum.java) |2017.3.16|Array|
 | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/?tab=Description) |[Solution](https://github.com/zszdevelop/leetcode/blob/master/leetcode/MedianOfTwoSortedArrays.java) |2017.2.3|Array|
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) |[Solution](https://github.com/zszdevelop/leetcode/blob/master/leetcode/RomanToInteger.java) |2017.2.3|String|
+| 15 | [3sum](https://leetcode.com/problems/3sum/#/description) |[Solution](https://github.com/zszdevelop/leetcode/blob/master/leetcode/_3Sum.java) |2017.3.17|Array|
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) |[Solution](https://github.com/zszdevelop/leetcode/blob/master/leetcode/RemoveNthNodeFromEndOfList.java) |2017.2.11|Link|
 | 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) |[Solution](https://github.com/zszdevelop/leetcode/blob/master/leetcode/SwapNodesInPairs.java) |2017.2.10|Link|
 | 25 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) |[Solution](https://github.com/zszdevelop/leetcode/blob/master/leetcode/ReverseNodesInKGroup.java) |2017.2.15|Link|
