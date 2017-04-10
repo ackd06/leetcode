@@ -13,6 +13,7 @@
 | 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) |[Solution](https://github.com/zszdevelop/leetcode/blob/master/leetcode/SwapNodesInPairs.java) |2017.2.10|Link|
 | 25 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) |[Solution](https://github.com/zszdevelop/leetcode/blob/master/leetcode/ReverseNodesInKGroup.java) |2017.2.15|Link|
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/#/description) |[Solution](https://github.com/zszdevelop/leetcode/blob/master/leetcode/RemoveElement.java) |2017.3.27|Array|
+| 31 | [Next Permutation](https://leetcode.com/problems/next-permutation/#/description) |[Solution](https://github.com/zszdevelop/leetcode/blob/master/leetcode/NextPermutation.java) |2017.4.10|Array|
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/?tab=Description) |[Solution](https://github.com/zszdevelop/leetcode/blob/master/leetcode/SearchInRotatedSortedArray.java) |2017.3.6|Array|
 | 61 | [Rotate List](https://leetcode.com/problems/rotate-list//) |[Solution](https://github.com/zszdevelop/leetcode/blob/master/leetcode/RotateList.java) |2017.2.9|Link|
 | 81 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/?tab=Description) |[Solution](https://github.com/zszdevelop/leetcode/blob/master/leetcode/SearchInRotatedSortedArrayII.java) |2017.3.7|Array|
