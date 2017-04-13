@@ -47,8 +47,19 @@
 
 
 ## Array 相关算法 ##
-* [快速排序](https://github.com/zszdevelop/leetcode/blob/master/leetcode/QuickSort.java)
-  
+* [快速排序 ](https://github.com/zszdevelop/leetcode/blob/master/leetcode/QuickSort.java)
+	- 时间复杂度：平均为O(n ㏒n),最坏O(n2)。
+	- 空间复杂度：O(㏒n) （partition 分割的深度）
+	- 快速排序并不是稳定的
+	
+
+* [归并排序](https://github.com/zszdevelop/leetcode/blob/master/leetcode/MergeSort.java)
+ 	- 时间复杂度：O(nlog(n))
+	- 空间复杂度：数组需要O(n)的额外空间，链表需要O(log(n))的额外空间
+	- 算法稳定
+   
 * 并查集(Union-Find)算法
 
     * [并查集(Union-Find)算法介绍](http://blog.csdn.net/dm_vincent/article/details/7655764)
+
+![](http://ww1.sinaimg.cn/large/81eeb0fcgy1fejpoxgg6nj20b706m3zq.jpg)
