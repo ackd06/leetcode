@@ -57,7 +57,10 @@
  	- 时间复杂度：O(nlog(n))
 	- 空间复杂度：数组需要O(n)的额外空间，链表需要O(log(n))的额外空间
 	- 算法稳定
-   
+* [二分查找](https://github.com/zszdevelop/leetcode/blob/master/leetcode/BinarySearch.java)
+ 	- 时间复杂度：O(nlog(n))
+	- 空间复杂度：O(1)
+	
 * 并查集(Union-Find)算法
 
     * [并查集(Union-Find)算法介绍](http://blog.csdn.net/dm_vincent/article/details/7655764)
